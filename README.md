@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitesh choudhary
-- 👀 I’m interested in dovelopment an in dsa
+- 👀 I’m interested in development an in dsa
 - 🌱 I’m currently learning dsa
 
 
